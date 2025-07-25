@@ -1,0 +1,25 @@
+
+export const techStack = {
+    "HTML": <i className="devicon-html5-plain colored" />,
+    "CSS": <i className="devicon-css3-plain colored" />,
+    "JavaScript": <i className="devicon-javascript-plain colored" />,
+    "TypeScript": <i className="devicon-typescript-plain colored" />,
+    "Python": <i className="devicon-python-plain colored" />,
+    "Node.js": <i className="devicon-nodejs-plain-wordmark colored" />,
+    "Bun.js": <i className="devicon-bun-plain colored"></i>,
+    "TailwindCSS": <i className="devicon-tailwindcss-original colored" />,
+    "React": <i className="devicon-react-original colored" />,
+    "Redux": <i className="devicon-redux-original colored" />,
+    "Next.js": <i className="devicon-nextjs-original-wordmark" />,
+    "Firebase": <i className="devicon-firebase-plain colored" />,
+    "Appwrite": <i className="devicon-appwrite-plain colored" />,
+    "Git": <i className="devicon-git-plain colored" />,
+    "VS Code": <i className="devicon-vscode-plain colored" />,
+    // "Vercel": <i className="devicon-vercel-original" />,
+    // "Netlify": <i className="devicon-netlify-plain colored" />,
+    // "Linux": <i className="devicon-linux-plain" />,
+    // "Dexie": <Database size={"0.875rem"} />,
+    // "CrxJS": <Puzzle size={"0.875rem"} />,
+    // "Sql": <i className="devicon-mysql-original colored"></i>,
+  }
+  
